@@ -31,7 +31,6 @@ My name is Mike and I'm a full-stack software developer with a passion for new c
 <a href="https://www.json.org/json-en.html" rel="nofollow"><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="Json"></a>
 <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"></a>
 <a href="https://www.postman.com/" rel="nofollow"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"></a>
-<a href="https://httpd.apache.org/docs/" rel="nofollow"><img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" alt="Apache"></a>
 <a href="https://maven.apache.org/" rel="nofollow"><img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"></a>
 </p>
 <p dir="auto">
